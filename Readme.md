@@ -57,6 +57,8 @@ Upon succesful run you should receive an array of objects printed in your termin
 
 Your Terminal input will be much longer as it will print information from the last 20 blocks.
 
+This output includes the blocknumbers of the latest blocks as well as gas fees for low, medium, and high priority transactions.
+
 ## Alchemy Web3 JS
 
 Alchemy Web3 JS is a wrapper around web3js that makes it easier to integrate with Alchemy API's. Similar to the web3js api we have access to `web3.eth.getFeeHistory` which is the API method powering this script. This allows us to get fee information about X number of blocks in the Ethereum Mainnet.
