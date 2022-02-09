@@ -6,7 +6,10 @@ This is a script that returns the gas fees for the last 20 blocks on the Ethreum
 
 ## How to run
 
-Note: This script requires Node to be installed on your local machine.
+Note: This script requires Node JS to be installed on your local machine.
+
+You can find instructions to download Node JS here:
+https://nodejs.org/en/download/
 
 Rename `.env.example` in the root folder to `.env`
 
